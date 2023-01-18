@@ -43,9 +43,9 @@
 ### Links
 
  
-  <a href="#"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/valexoff"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/valex-panov/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="#"><img height="30" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="#"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="youtube views" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=Views&style=for-the-badge&color=red&labelColor=ce4630#"/></a>
+  <a href="https://steamcommunity.com/id/valex3k/"><img height="30" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/valex#2452"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCUjkVx176UO-6_8RHKj53Vg?sub_confirmation=1"><img alt="youtube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=Views&style=for-the-badge&color=red&labelColor=ce4630#"/></a>
 
