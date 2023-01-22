@@ -42,7 +42,6 @@
  <div align="center">
   <a href="https://t.me/valexoff"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/valex-panov/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://steamcommunity.com/id/valex3k/"><img height="30" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/valex#2452"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCUjkVx176UO-6_8RHKj53Vg">
     <img height="30" alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCUjkVx176UO-6_8RHKj53Vg?color=%23E05D44&label=VIEWS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
