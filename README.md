@@ -7,8 +7,6 @@
 - 📚 I'm currently learning: 
 <br><br>
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h3 align="center">Stack</h3>
@@ -34,7 +32,6 @@
 <div align="center">
   <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeXeich&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeXeich&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <h3 align="center">Links</h3>
@@ -43,7 +40,4 @@
   <a href="https://t.me/valexoff"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/valex-panov/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discordapp.com/users/valex#2452"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCUjkVx176UO-6_8RHKj53Vg">
-    <img height="30" alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCUjkVx176UO-6_8RHKj53Vg?color=%23E05D44&label=VIEWS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a> 
 </div>
