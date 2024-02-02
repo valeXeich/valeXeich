@@ -2,12 +2,7 @@
 
 <h3 align="center">About me</h3>
 
-- 🌟 I'm a Python Backend Developer (21 y.o)
-
-- 📚 I'm currently learning: 
-<br><br>
-[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 🌟 I'm a Python Backend Developer (22 y.o)
 
 <h3 align="center">Stack</h3>
 
