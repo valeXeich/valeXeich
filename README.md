@@ -22,13 +22,6 @@
 ![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h3 align="center">Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/ibtriz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeXeich&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 <h3 align="center">Links</h3>
   
  <div align="center">
